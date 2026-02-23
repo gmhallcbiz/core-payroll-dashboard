@@ -1,0 +1,9 @@
+{"lastUpdated":"pending","weeks":[]}
+```
+4. Click **Commit changes → Commit directly to main**
+
+**Step 3 — Get your raw file URL**
+
+Once the file is created, click on it, then click the **Raw** button. Copy that URL — it will look like:
+```
+https://raw.githubusercontent.com/yourusername/core-payroll-dashboard/main/capacity_data.json
